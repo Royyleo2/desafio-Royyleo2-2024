@@ -1,0 +1,1 @@
+# Olá, criei esse projeto para solução do desafio StartDB, espero que esteja tudo Ok.
